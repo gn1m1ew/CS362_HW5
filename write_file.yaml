@@ -1,0 +1,3 @@
+write: data.txt
+data: |
+    Hello, World!

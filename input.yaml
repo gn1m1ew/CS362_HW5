@@ -1,0 +1,5 @@
+title: My tests
+tests:
+- py: |
+    print ("Hello, world!")
+- sh: echo Hello, world!
